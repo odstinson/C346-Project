@@ -1,0 +1,14 @@
+Project Proposal
+       We propose a web-based interactive application in the form of a 2D action game! The website is going to need a layout and the game itself will require assets such as art, sound, and other dependencies. The game itself is going to require user input through peripherals such as the keyboard and perhaps even the mouse. As of now the theme is undetermined and so we are not completely sure about what specific functions the game will perform. 
+
+
+
+Estimations of Effort
+       Ideally, by the end of semester we should have a fully functional game. We plan to make it a goal-oriented game that will probably have a point system. We intend to create all of the necessary assets such as the art, sound, and code. As of now each member will most likely be contributing something to the programming aspects and we will divide up the work required for the art and sound accordingly. Our goal is to have each member contribute a fair amount to the project and be proud of what they have made. 
+
+
+
+Organization
+	Currently our idea is very vague, over the course of the next week we will be determining the theme of our game. Afterwards we will start dividing the work between team members. We will attempt to have weekly goals with our accomplishments in both the programming and art assets. For example, after we determine our game’s theme the following week we would like to have the website’s layout set up to handle a game application and perhaps some sort of background drawn and visual stage/ pane programmed for the game itself, and so forth. 
+Mahir Almandil, Matthew Wayne, Olivia Stinson
+
