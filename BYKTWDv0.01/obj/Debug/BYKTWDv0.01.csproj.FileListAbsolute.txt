@@ -1,0 +1,6 @@
+C:\Users\zee\Documents\Unity\BYKTWD\BYKTWDv0.01\bin\BYKTWDv0.01.dll.config
+C:\Users\zee\Documents\Unity\BYKTWD\BYKTWDv0.01\bin\BYKTWDv0.01.dll
+C:\Users\zee\Documents\Unity\BYKTWD\BYKTWDv0.01\bin\BYKTWDv0.01.pdb
+C:\Users\zee\Documents\Unity\BYKTWD\BYKTWDv0.01\obj\Debug\BYKTWDv0.01.csprojResolveAssemblyReference.cache
+C:\Users\zee\Documents\Unity\BYKTWD\BYKTWDv0.01\obj\Debug\BYKTWDv0.01.dll
+C:\Users\zee\Documents\Unity\BYKTWD\BYKTWDv0.01\obj\Debug\BYKTWDv0.01.pdb
